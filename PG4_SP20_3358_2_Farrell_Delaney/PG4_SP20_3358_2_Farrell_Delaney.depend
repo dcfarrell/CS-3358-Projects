@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586162631 source:c:\users\delan\iclouddrive\documents\cs3358 programs\pg4_sp20_3358_2_farrell_delaney\pg4_sp20_3358_2_farrell_delaney.cpp
+	<iostream>
+	<ctime>
+
